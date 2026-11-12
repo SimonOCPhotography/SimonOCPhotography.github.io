@@ -9,7 +9,7 @@
     height: 50px;
     background-color: black;
     display: flex;
-    align-items: center;
+    align-items: right;
 }
 
 .topbar ul {
